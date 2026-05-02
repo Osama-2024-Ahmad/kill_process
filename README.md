@@ -59,6 +59,9 @@ chmod +x interactive_kill.sh
 
 ## Screenshots
 ![Text Output](docs/screenshots/output1.png)
+
+---
+
 ![Text Output](docs/screenshots/output2.png)
 
 ## License
